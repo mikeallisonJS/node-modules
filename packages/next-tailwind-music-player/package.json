@@ -5,7 +5,8 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "bun build src/index.tsx --outdir ./dist"
   },
   "devDependencies": {
     "@shadcn/ui": "^0.0.4",

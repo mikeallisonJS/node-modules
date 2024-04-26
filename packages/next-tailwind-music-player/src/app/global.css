@@ -44,11 +44,6 @@ body {
   line-height: inherit;
   margin: 0;
   background-color: rgb(18, 18, 18);
-  background: url('/images/captain-1024.webp');
-  background-position-x: 51%;
-  background-position-y: 50%;
-  background-size: cover;
-  background-attachment: fixed;
 }
 
 a {

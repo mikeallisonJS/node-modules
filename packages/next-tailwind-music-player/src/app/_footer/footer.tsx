@@ -17,22 +17,6 @@ export const songs: Track[] = [
       'https://www.mediafire.com/file_premium/piwjyso0y28m92j/Apashe_-_Uebok_%2528Captain_remix%2529_3%2528extended%2529.mp3/file'
   },
   {
-    ID: 'bangharder',
-    coverArt: '/images/albums/Lost_Trips_Final.V2_512.jpg',
-    title: 'Bang Harder',
-    artist: 'Blunter S. Whompson, Captain, Sqwurl',
-    source:
-      'https://www.mediafire.com/file_premium/ns8d5jlzokc8plk/Captain_x_Sqwurl_x_Blunter_s._Whompson_-_Bang_Harder_%2528Original_Mix%2529.mp3/file'
-  },
-  {
-    ID: 'uebok',
-    coverArt: '/images/albums/uebok.png',
-    title: 'Uebok (Captain remix)',
-    artist: 'Apashe',
-    source:
-      'https://www.mediafire.com/file/s4dz0s8v7yj73h5/Apashe_-_Uebok_%2528Captain_remix%2529.mp3/file'
-  },
-  {
     ID: 'xld',
     coverArt: '/images/albums/xld.jpg',
     title: 'XLD (Captain remix)',
@@ -80,15 +64,6 @@ export const songs: Track[] = [
     source:
       'http://www.mediafire.com/file/8wbtrhesygfvu59/Captain_-_Thicc.mp3/file'
   },
-  {
-    ID: 'mama',
-    coverArt: '/images/albums/mama.jpg',
-    title: 'Mama (feat Ellie Golding) (Captain DNB Remix)',
-    artist: 'Clean Bandit',
-    source:
-      'http://www.mediafire.com/file/rhp3gc37kbcoruz/Clean_Bandit_-_Mama_%2528feat._Ellie_Goulding%2529_%2528Captain_DNB_Remix%2529.mp3/file'
-  },
-
 ]
 
 export default function Footer() {
