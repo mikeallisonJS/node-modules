@@ -1,6 +1,6 @@
 {
   "name": "@mikeallison/next-tailwind-music-player",
-  "module": "src/index.ts",
+  "module": "src/index.tsx",
   "type": "commonjs",
   "version": "1.0.0",
   "license": "MIT",
