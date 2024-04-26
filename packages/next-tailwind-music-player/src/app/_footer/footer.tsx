@@ -3,9 +3,9 @@
 import {
   MusicPlayerProvider,
   Player,
-} from '../../'
+} from '../../..'
 
-import type {Track} from '../../'
+import type {Track} from '../../..'
 
 export const songs: Track[] = [
   {

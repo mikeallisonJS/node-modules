@@ -1,10 +1,10 @@
 import {
     MusicPlayerProvider,
     useMusicPlayerContext
-  } from './components/context'
+  } from './src/components/context'
 
-  import Player from './components/player'
-import type { Track } from './components/types'
+  import Player from './src/components/player'
+import type { Track } from './src/components/types'
 
 export { MusicPlayerProvider, useMusicPlayerContext, Player }
 export type { Track }
